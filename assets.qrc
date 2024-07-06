@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/img/folder.svg</file>
+        <file>assets/img/folder.png</file>
+        <file>assets/img/play.png</file>
+        <file>assets/img/reset.png</file>
+        <file>assets/img/stop.png</file>
+        <file>assets/img/pause.png</file>
+        <file>assets/img/simulation.png</file>
+    </qresource>
+</RCC>
